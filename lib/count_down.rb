@@ -1,3 +1,3 @@
 # Write your code here
 count = 0
-while
+while(count<10) 
